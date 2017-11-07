@@ -6,3 +6,4 @@ coverletter*.aux
 coverletter*.out
 *.log
 .DS_Store
+*.pdf
